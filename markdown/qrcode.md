@@ -15,7 +15,7 @@ Wenn ihr lichtsensibel oder migräneanfällig seid und daher nicht auf die helle
 
 # Link <!-- .element class="hidden" -->
 
-<https://xahteiwi.eu/linuxdayat2024>
+<https://xahteiwi.eu/froscon2025>
 
 <!-- Note -->
 Und falls ihr eine Hörbeeinträchtigung haben solltet, dann macht den Link bitte auf eurem Laptop auf und klickt auf "s", da kriegt ihr mich dann mit Transkript, also quasi mit Untertiteln.
