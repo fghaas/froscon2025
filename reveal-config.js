@@ -11,7 +11,7 @@ Reveal.initialize({
 
     /* When enabling inline notes, automatic "scroll view" is
      * counterproductive, so disable it. */
-    showNotes: true,
+    showNotes: false,
     scrollActivationWidth: null,
 
     transition: 'fade',
