@@ -40,8 +40,3 @@ Und auch damit erzielst du bessere Leistungen, bessere Teamqualität, und mehr V
 ![QR-Code für Link auf https://haasasaservice.eu](images/haasasaservice.svg)
 
 <https://haasasaservice.eu/de/workshops/verteiltes-arbeiten/>
-
-
-# Spreadshirt <!-- .element class="hidden" -->
-
-![QR-Code für Link auf https://spreadshirt.at](images/gehtscho.svg)
